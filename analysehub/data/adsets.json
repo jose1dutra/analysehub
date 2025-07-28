@@ -1,0 +1,62 @@
+{
+  "adsets": {
+    "camp1": [
+      {
+        "id": "adset1",
+        "name": "Xp~Leads",
+        "status": "ACTIVE",
+        "delivery": "Em aprendizado",
+        "actions": "2 recomendações",
+        "strategy": "Volume mais alto Conversões",
+        "budget": "R$ 50,00 Diário",
+        "lastEdit": "15 de jul de 2025 Há 8 dias"
+      },
+      {
+        "id": "adset2",
+        "name": "Viajantes_Frequentes~real_estate~Mkt_digital",
+        "status": "ACTIVE",
+        "delivery": "Aprendizado limitado",
+        "actions": "1 recomendação",
+        "strategy": "Volume mais alto Conversões",
+        "budget": "R$ 50,00 Diário",
+        "lastEdit": "4 de jul de 2025 Há 19 dias"
+      }
+    ],
+    "camp2": [
+      {
+        "id": "adset3",
+        "name": "Públicas Quente - 25-45",
+        "status": "ACTIVE",
+        "delivery": "Ativo",
+        "actions": "-",
+        "strategy": "Volume mais alto",
+        "budget": "R$ 75,00 Diário",
+        "lastEdit": "10 de jul de 2025 Há 13 dias"
+      }
+    ],
+    "camp3": [
+      {
+        "id": "adset4",
+        "name": "Teste Públicos Frio",
+        "status": "ACTIVE",
+        "delivery": "Ativo",
+        "actions": "-",
+        "strategy": "Volume mais alto",
+        "budget": "R$ 30,00 Diário",
+        "lastEdit": "12 de jul de 2025 Há 11 dias"
+      }
+    ],
+    "camp4": [
+      {
+        "id": "adset5",
+        "name": "Distribuição Growth",
+        "status": "ACTIVE",
+        "delivery": "Ativo",
+        "actions": "1 recomendação",
+        "strategy": "Volume mais alto",
+        "budget": "R$ 100,00 Diário",
+        "lastEdit": "8 de jul de 2025 Há 15 dias"
+      }
+    ]
+  }
+} 

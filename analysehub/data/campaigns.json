@@ -1,0 +1,76 @@
+{
+  "campaigns": [
+    {
+      "id": "camp1",
+      "name": "[PF][Bests][VSL-SE][CBO][Captação]",
+      "status": "ACTIVE",
+      "delivery": "Ativo",
+      "actions": "-",
+      "strategy": "Volume mais alto",
+      "budget": "R$ 150,00 Diário",
+      "attribution": "Clique de 1 dias",
+      "performance": "Alto desempenho"
+    },
+    {
+      "id": "camp2",
+      "name": "[PC][F4.Escala][Novos][Captacao-SE][ABO]",
+      "status": "ACTIVE",
+      "delivery": "Ativo",
+      "actions": "2 recomendações",
+      "strategy": "Usando a estratégia da campanha",
+      "budget": "Usando o orçamento da campanha",
+      "attribution": "Configurações da campanha"
+    },
+    {
+      "id": "camp3",
+      "name": "[PC][F1.Teste_Públicos][Novos][Captacao-SE][ABO]",
+      "status": "ACTIVE",
+      "delivery": "Ativo",
+      "actions": "-",
+      "strategy": "Usando a estratégia da campanha",
+      "budget": "Usando o orçamento da campanha",
+      "attribution": "Clique de 7 dias"
+    },
+    {
+      "id": "camp4",
+      "name": "[PF][Distribuição][Growth][ABO]",
+      "status": "ACTIVE",
+      "delivery": "Ativo",
+      "actions": "-",
+      "strategy": "Usando a estratégia da campanha",
+      "budget": "Usando o orçamento da campanha",
+      "attribution": "Clique de 7 dias",
+      "performance": "Alto desempenho"
+    },
+    {
+      "id": "camp5",
+      "name": "[PQ][Envolv_180d][Captacao-SE][CBO]",
+      "status": "ACTIVE",
+      "delivery": "Ativo",
+      "actions": "1 recomendação",
+      "strategy": "Volume mais alto",
+      "budget": "R$ 20,00 Diário",
+      "attribution": "Clique de 1 dias"
+    },
+    {
+      "id": "camp6",
+      "name": "[PQ][C2-Distri-2.0][Conexão-Envolv][Engajamento]",
+      "status": "ACTIVE",
+      "delivery": "Ativo",
+      "actions": "1 recomendação",
+      "strategy": "Usando a estratégia da campanha",
+      "budget": "Usando o orçamento da campanha",
+      "attribution": "Clique de 7 dias"
+    },
+    {
+      "id": "camp7",
+      "name": "[PC][F1.Teste_Criativos][Novos][Captacao-SE][ABO]",
+      "status": "PAUSED",
+      "delivery": "Desativado",
+      "actions": "-",
+      "strategy": "Usando a estratégia da campanha",
+      "budget": "Usando o orçamento da campanha",
+      "attribution": "Clique de 7 dias"
+    }
+  ]
+} 
